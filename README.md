@@ -66,9 +66,9 @@ You can learn from here:
 **Step 7: Send a Pull Request** 🔄
 - Go to your `forked repository` on GitHub.
 - Click on the `"New pull request"` button.
-- Select the base repository (original repository) and the branch where you want to merge your changes.
-- Review the changes and provide a descriptive title and comment for your pull request.
-- Click on the "Create pull request" button to submit your changes for review.
+- Select the `base repository (original repository)` and the branch where you want to merge your changes.
+- Review the changes and provide a descriptive `title and comment` for your pull request.
+- Click on the `"Create pull request"` button to submit your changes for review.
 
 **Step 8: Await Review and Feedback** 🕒
 - Wait for the project manager or designated reviewer to review your pull request.
@@ -84,7 +84,7 @@ You can learn from here:
 **Step 10: Update Your Progress on LinkedIn** 🌟
 - Create a brief video demonstrating your project's highlights (even 30 seconds will do).
 - Optionally, you can provide a verbal explanation of your project.
-- Share the `vide`o on LinkedIn along with a concise project overview.
+- Share the `video` on LinkedIn along with a concise project overview.
 - Don't forget to include the `GitHub repository link` in your LinkedIn post
 - Note: The repo link must have `codemacrocosm` followed by` your project name` 
 - Utilize the `#WeLoveCodeMacrocosm` hashtag to connect with fellow interns, enabling viewers to delve deeper into your project.
