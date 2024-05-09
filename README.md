@@ -79,6 +79,7 @@ You can learn from here:
 **Step 9: Explore Other Interns' Repositories** 🔍
 - Take the opportunity to explore other interns' repositories in `codemacrocosm organization` by `starring` them.
 - Starring repositories helps you keep track of projects that interest you and show appreciation for your peers' work.
+- Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md) and add your details to appear in the`hall of fame`
 
 **Step 10: Update Your Progress on LinkedIn** 🌟
 - Create a brief video demonstrating your project's highlights (even 30 seconds will do).
