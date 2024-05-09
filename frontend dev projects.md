@@ -16,11 +16,11 @@
    - Build a quiz application where users can answer multiple-choice questions. Use HTML for the structure, CSS for styling, and JavaScript for handling user interactions such as selecting answers and displaying results.
    - **Intern:** NOMULA MANI CHANDRA
 
-5. **Calculator App 🧮:** 
-   - Develop a basic calculator application that performs arithmetic operations (addition, subtraction, multiplication, division). Use HTML for the layout, CSS for styling, and JavaScript for implementing the calculator logic.
+5. **[Blog UI 💻:](https://github.com/CodeMacrocosm/Blog-UI)** 
+   - Develop the frontend user interface for a blog application, including features like homepage, post detail page, and responsive design using HTML, CSS, JS
    - **Intern:** MUHAMMAD BUX
   
-6. **Daily Journal App 📝:**
+6. **[Daily Journal App 📝:](https://github.com/CodeMacrocosm/Daily-Journal-App)**
    - Develop a journaling application for users to write and save daily thoughts USING HTML, CSS, JAVASCRIPT. Features include creating/editing entries, organizing by date, and searching/filtering by tags.
    - **Intern:** VAMSHI KONA
 
