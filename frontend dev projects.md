@@ -17,3 +17,4 @@
 
 6. **Calculator App 🧮:**
    - Develop a basic calculator application that performs arithmetic operations (addition, subtraction, multiplication, division). Use HTML for the layout, CSS for styling, and JavaScript for implementing the calculator logic.
+.
