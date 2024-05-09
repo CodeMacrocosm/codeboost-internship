@@ -1,13 +1,9 @@
 #  Codeboost Internship by CodeMacrocosm 🚀
 
 
-Welcome to the Codeboost Internship program brought to you by CodeMacrocosm! 🌟
+Welcome to the Codeboost Internship program brought to you by CodeMacrocosm! 🌟 This internship is designed to provide aspiring developers with hands-on experience various fields of software development. 💻 Join us as we embark on a journey to enhance our skills, collaborate on real-world projects, and build a vibrant community of learners and creators. 🌐 Get ready to boost your coding journey with Codeboost! Let's code, learn, and grow together! 🚀
 
-This internship is designed to provide aspiring developers with hands-on experience various fields of software development. 💻
-
-Join us as we embark on a journey to enhance our skills, collaborate on real-world projects, and build a vibrant community of learners and creators. 🌐
-
-Get ready to boost your coding journey with Codeboost! Let's code, learn, and grow together! 🚀
+Before proceeding, we encourage you to read through the entire program overview carefully and execute each step sequentially. Take your time and ensure a thorough understanding before moving on to the next step.
 
 **PREREQ: Learn Git and Github**
 
@@ -79,6 +75,7 @@ You can learn from here:
 **Step 9: Explore Other Interns' Repositories** 🔍
 - Take the opportunity to explore other interns' repositories in `codemacrocosm organization` by `starring` them.
 - Starring repositories helps you keep track of projects that interest you and show appreciation for your peers' work.
+- Now it's time to `star and fork` this repo [Codeboost Internship](https://github.com/CodeMacrocosm/codeboost-internship)
 - Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md) and add your details to appear in the`hall of fame`
 
 **Step 10: Update Your Progress on LinkedIn** 🌟
