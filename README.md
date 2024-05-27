@@ -79,10 +79,10 @@ You can learn from here:
 - Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md) and add your details to appear in the`hall of fame`
 
 **Step 10: Update Your Progress on LinkedIn** 🌟
-- Create a brief video demonstrating your project's highlights (even 30 seconds will do).
+- Create a brief video by screenrecording, demonstrating your project's highlights (even 30 seconds will do).
 - Optionally, you can provide a verbal explanation of your project.
 - Share the `video` on LinkedIn along with a concise project overview.
-- Don't forget to include the `GitHub repository link` in your LinkedIn post
+- Don't forget to include the `GitHub repository link` as well as deployed link (if valid) in your LinkedIn post
 - Note: The repo link must have `codemacrocosm` followed by` your project name` 
 - Utilize the `#WeLoveCodeMacrocosm` hashtag to connect with fellow interns, enabling viewers to delve deeper into your project.
 
@@ -97,8 +97,9 @@ In this video, I will demonstrate how our project [briefly describe your project
 - [Feature 1]
 - [Feature 2]
 
-
 🔗 Explore the project on GitHub: [ https://github.com/CodeMacrocosm/<your-project-name>]
+
+🌟 View the project live on [<deployed link>]
 
 A big thank you to the @CodeMacrocosm for giving us the opportunity to work on this project and grow our skills in [mention the field or technology].
 
@@ -111,13 +112,13 @@ I'm excited to share this project with you and would love to hear your feedback!
 
 ---
 
-[attachment: upload the video]
+[attachment: screenrecord the project video, show code and live demo and upload it]
 
 ````````
 
 **Step 11: Connect with Peers and Provide Feedback**
 - Search for other interns using the hashtag #WeLoveCodeMacrocosm on LinkedIn.
-- Comment on at least 5 interns' posts, providing constructive feedback on their projects.
+- Comment on at least 2 interns' posts, providing constructive feedback on their projects.
 - Engaging with peers fosters a supportive community and encourages collaboration and growth.
 
 **Step 12: Initiate Discussions in the Issues Section** 💬
