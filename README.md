@@ -28,21 +28,7 @@ You can learn from here:
 
 In your GitHub profile, create a repository named "codeboost." Start working on your project, then upload your project to this repository either using Git or by direct upload.
 
-
-**Step 3:** 
-
-1. After we review your work, we will fork it into the Codemacrocosm organization to indicate your successful project completion.
-2. Star the repo and invite friends and peers to star it as well. Explore and star other interns' repositories in the Codemacrocosm organization to show appreciation for their work.
-3. The repo with the most stars will receive a letter of recommendation from Codemacrocosm's CEO.
-
-**Step 4:**
-
-1. Star and fork this repo: [Codeboost Internship](https://github.com/CodeMacrocosm/codeboost-internship).
-2. Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md), click the pencil icon in your forked repo, add your details, and click commit.
-3. Send a pull request. Once merged, your name will appear in the hall of fame.
-
-
-**Step 5: Update Your Progress on LinkedIn** 🌟
+**Step 3: Update Your Progress on LinkedIn** 🌟
 
 1. Create a brief screen-recorded video showcasing your project's highlights (even 30 seconds will suffice).
 2. Optionally, provide a verbal explanation of your project.
@@ -80,10 +66,24 @@ I'm excited to share this project with you and would love to hear your feedback!
 
 ````````
 
-**Step 6: Connect with Peers and Provide Feedback**
+**Step 4: Connect with Peers and Provide Feedback**
 - Search for other interns using the hashtag #WeLoveCodeMacrocosm on LinkedIn.
 - Comment on at least 2 interns' posts, providing constructive feedback on their projects.
 - Engaging with peers fosters a supportive community and encourages collaboration and growth.
+
+
+**Step 5:** 
+
+1. After we review your work, we will fork it into the Codemacrocosm organization to indicate your successful project completion.
+2. Star the repo and invite friends and peers to star it as well. Explore and star other interns' repositories in the Codemacrocosm organization to show appreciation for their work.
+3. The repo with the most stars will receive a letter of recommendation from Codemacrocosm's CEO.
+
+**Step 6:**
+
+1. Star and fork this repo: [Codeboost Internship](https://github.com/CodeMacrocosm/codeboost-internship).
+2. Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md), click the pencil icon in your forked repo, add your details, and click commit.
+3. Send a pull request. Once merged, your name will appear in the hall of fame.
+
 
 **Step 7: Initiate Discussions in the Issues Section** 💬
 - Utilize the `"Issues"` section of `this repository`, click on `discussion space` to initiate discussions, seek clarification, or propose ideas.
