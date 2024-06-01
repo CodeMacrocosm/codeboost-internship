@@ -1,7 +1,7 @@
 #  Codeboost Internship by CodeMacrocosm 🚀
 
 
-Welcome to the Codeboost Internship program brought to you by CodeMacrocosm! 🌟 This internship is designed to provide aspiring developers with hands-on experience various fields of software development. 💻 Join us as we embark on a journey to enhance our skills, collaborate on real-world projects, and build a vibrant community of learners and creators. 🌐 Get ready to boost your coding journey with Codeboost! Let's code, learn, and grow together! 🚀
+Welcome to the Codeboost Internship program brought to you by CodeMacrocosm! 🌟 
 
 Before proceeding, we encourage you to read through the entire program overview carefully and execute each step sequentially. Take your time and ensure a thorough understanding before moving on to the next step.
 
@@ -17,74 +17,38 @@ You can learn from here:
 
 ## PROJECT DETAILS:
 
-**Step 1: Find Your Allocated Tasks in Your Respective Domains** 🎯
-- Identify the `project` allocated to `your name` based on `your domain` interest.
+**Step 1: Choose Your Allocated Tasks in Your Respective Domains** 🎯
+
   - [Frontend Development ](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/frontend%20dev%20projects.md)
   - [Python Development](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/python%20dev%20projects.md)
   - [Full-Stack Development](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/full%20stack%20dev.md)
 
-**Step 2: Go to the Link of the Project Allocated to You** 🔗
-- Click on the provided link to navigate to the GitHub repository of the allocated project.
 
-**Step 3: Star and Fork the Repository** ⭐
-- Click on the `"Star"` button to mark the repository as a favorite for easy access.
-- Click on the `"Fork"` button to create a copy of the repository in your GitHub account.
+**Step 2:** 
 
-**Step 4: Go to Your Forked Repository** 🔄
-- Navigate to your GitHub profile to find the forked repository.
-- The forked repository will have `your username` followed by the `project name`.
+In your GitHub profile, create a repository named "codeboost." Start working on your project, then upload your project to this repository either using Git or by direct upload.
 
----
 
-**Step 5: Start Working on Your Project** 🚀
-- Clone the forked repository to your local machine using Git.
-  ```
-  git clone <forked_repository_url>
-  ```
-- Open the project in your preferred code editor.
-- Work by developing your project
-- Test your changes locally to ensure they work as expected.
+**Step 3:** 
 
-**Step 6: Add Your Changes and Push to GitHub** 📝
-- Stage your changes using Git.
-  ```
-  git add .
-  ```
-- Commit your changes with a descriptive commit message.
-  ```
-  git commit -m "Add  XYZ"
-  ```
-- Push your changes to your forked repository on GitHub.
-  ```
-  git push -u origin master
-  ```
+1. After we review your work, we will fork it into the Codemacrocosm organization to indicate your successful project completion.
+2. Star the repo and invite friends and peers to star it as well. Explore and star other interns' repositories in the Codemacrocosm organization to show appreciation for their work.
+3. The repo with the most stars will receive a letter of recommendation from Codemacrocosm's CEO.
 
-**Step 7: Send a Pull Request** 🔄
-- Go to your `forked repository` on GitHub.
-- Click on the `"New pull request"` button.
-- Select the `base repository (original repository)` and the branch where you want to merge your changes.
-- Review the changes and provide a descriptive `title and comment` for your pull request.
-- Click on the `"Create pull request"` button to submit your changes for review.
+**Step 4:**
 
-**Step 8: Await Review and Feedback** 🕒
-- Wait for the project manager or designated reviewer to review your pull request.
-- Once your pull request is merged then congratulations
+1. Star and fork this repo: [Codeboost Internship](https://github.com/CodeMacrocosm/codeboost-internship).
+2. Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md), click the pencil icon in your forked repo, add your details, and click commit.
+3. Send a pull request. Once merged, your name will appear in the hall of fame.
 
-----
 
-**Step 9: Explore Other Interns' Repositories** 🔍
-- Take the opportunity to explore other interns' repositories in `codemacrocosm organization` by `starring` them.
-- Starring repositories helps you keep track of projects that interest you and show appreciation for your peers' work.
-- Now it's time to `star and fork` this repo [Codeboost Internship](https://github.com/CodeMacrocosm/codeboost-internship)
-- Go to [Contributions.md](https://github.com/CodeMacrocosm/codeboost-internship/blob/main/contributions.md) and add your details to appear in the`hall of fame`
+**Step 5: Update Your Progress on LinkedIn** 🌟
 
-**Step 10: Update Your Progress on LinkedIn** 🌟
-- Create a brief video by screenrecording, demonstrating your project's highlights (even 30 seconds will do).
-- Optionally, you can provide a verbal explanation of your project.
-- Share the `video` on LinkedIn along with a concise project overview.
-- Don't forget to include the `GitHub repository link` as well as deployed link (if valid) in your LinkedIn post
-- Note: The repo link must have `codemacrocosm` followed by` your project name` 
-- Utilize the `#WeLoveCodeMacrocosm` hashtag to connect with fellow interns, enabling viewers to delve deeper into your project.
+1. Create a brief screen-recorded video showcasing your project's highlights (even 30 seconds will suffice).
+2. Optionally, provide a verbal explanation of your project.
+3. Share the video on LinkedIn along with a concise project overview. Include the GitHub repository link and deployed link (if available) in your post. Utilize the `#WeLoveCodeMacrocosm` hashtag to connect with fellow interns and enable viewers to explore your project further.
+
+template:
 
 `````
 
@@ -116,12 +80,12 @@ I'm excited to share this project with you and would love to hear your feedback!
 
 ````````
 
-**Step 11: Connect with Peers and Provide Feedback**
+**Step 6: Connect with Peers and Provide Feedback**
 - Search for other interns using the hashtag #WeLoveCodeMacrocosm on LinkedIn.
 - Comment on at least 2 interns' posts, providing constructive feedback on their projects.
 - Engaging with peers fosters a supportive community and encourages collaboration and growth.
 
-**Step 12: Initiate Discussions in the Issues Section** 💬
+**Step 7: Initiate Discussions in the Issues Section** 💬
 - Utilize the `"Issues"` section of `this repository`, click on `discussion space` to initiate discussions, seek clarification, or propose ideas.
 - Don't hesitate to reach out for assistance in the discussion area, and remember to lend a helping hand to your peers to ensure everyone successfully completes the internship.
 - Tag relevant interns or the project manager to ensure they are notified and can participate in the discussion.
