@@ -4,7 +4,6 @@ Fork this repository, navigate to your forked repository, add your details, and 
 
 eg:
 
-| Name            | Username         | Role                      | Project Link                                       |
-|-----------------|------------------|---------------------------|----------------------------------------------------|
-| Shreya Malogi   | [shreyamalogi](https://github.com/shreyamalogi/shreyamalogi) | Backend Development Intern| [Project Link](https://github.com/shreyamalogi/SoulCare-Bot) |
-|  xyz              |
+| Name                  | Username                                | Role                        | Project Link                                       |
+|-----------------------|-----------------------------------------|-----------------------------|----------------------------------------------------|
+| kummari pradeep kumar | [Prad55ep](https://github.com/Prad55ep) |Frontend Development Intern| [Project Link](prad55ep.github.io/Music-Player-App/) |
