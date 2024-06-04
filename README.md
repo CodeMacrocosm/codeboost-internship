@@ -88,6 +88,4 @@ I'm excited to share this project with you and would love to hear your feedback!
 **Step 7: Initiate Discussions in the Issues Section** 💬
 - Utilize the `"Issues"` section of `this repository`, click on `discussion space` to initiate discussions, seek clarification, or propose ideas.
 - Don't hesitate to reach out for assistance in the discussion area, and remember to lend a helping hand to your peers to ensure everyone successfully completes the internship.
-- Tag relevant interns or the project manager to ensure they are notified and can participate in the discussion.
-- Discuss any project-related topics, brainstorm solutions to challenges, or share insights to enhance collaboration and problem-solving.
 - For any other queries you can mail us at codemacrocosm@gmail.com
